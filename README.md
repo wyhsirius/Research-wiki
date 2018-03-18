@@ -3,4 +3,4 @@ This repository contains my reading list related to my research topic, I will al
 
 Topics:
 
-cction localization
+- action localization
