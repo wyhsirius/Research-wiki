@@ -1,10 +1,11 @@
 # Research-wiki
 This repository contains my reading list related to my research topic, I will also put my notes on that.
+
 My reasech topic right now focus more on spatio-temporal action localization in the video.
 
 Topics:
 
-- action localization
+- action localization link
 - action recognition
 - deep learning 
 - GAN
