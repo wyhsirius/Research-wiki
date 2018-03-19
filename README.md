@@ -1,5 +1,6 @@
 # Research-wiki
-This repository contains my reading list related to my research topic, I will also put my notes on that.
+
+notes for my research
 
 My reasech topic right now focus more on spatio-temporal action localization in the video.
 
