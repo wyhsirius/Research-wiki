@@ -6,8 +6,7 @@ My reasech topic right now focus more on spatio-temporal action localization in 
 
 Topics:
 
-- [action localization](https://github.com/wyhsirius/Research-wiki/wiki/action-papers)
-- action recognition
+- [action recognition](https://github.com/wyhsirius/Research-wiki/wiki/action-papers)
 - deep learning 
 - GAN
 
